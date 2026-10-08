@@ -22,12 +22,19 @@ The Problem (Currently & What I think needs to be fixed)
 The Solution (The Dream & Idea)
 --------
 AllThingsUSB (ATUSB) – a single, open‑source, Linux‑first toolbox that:
+ 
   • Integrates/Detects USBs sticks instantly (udev).
+  
   • Shows health metrics & predicts future failures.
+  
   • Offers one‑click backup before a USB stick dies.
+  
   • Integrates Ventoy/medicat for multiboot ISO management.
-  • Sould check if things are up to date and can update ISO's by downloading them or using torrents and interfacing with transmission after an ISO is finished.
+  
+  • Should check if things are up to date and can update ISO's by downloading them or using torrents and interfacing with transmission after an ISO is finished.
+  
   • Provides safe flashing & raw imaging.
+  
   • Runs on GNOME, KDE, i3, sway works with wayland and X11 – works everywhere.
 
 The Impact (FIX issues with all USB sticks)
