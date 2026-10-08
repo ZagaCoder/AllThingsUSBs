@@ -40,3 +40,4 @@ The Impact (FIX issues with all USB sticks)
 # Badges
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?logo=github)
 ![GitHub branch status](https://img.shields.io/github/checks-status/ZagaCoder/AllThingsUSBs/main)
+![GitHub contributors](https://img.shields.io/github/contributors/ZagaCoder/AllThingsUSBs)
