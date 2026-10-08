@@ -36,3 +36,6 @@ The Impact (FIX issues with all USB sticks)
 - **Reduced waste**: Extends the usable life of existing USB media, lessening the need to purchase new storage hardware amid market‑driven price spikes.
 - **Lower barrier to multiboot USB creation**: No more hunting for multiple command‑line apps or other flashing tools or just to get downloads to update ISO's.
 - **Strengthens the Linux ecosystem** with a polished, community‑driven utility toolbox that respects the self and makes a rising value of simple sysadmin toolbox and makes low amounts of storage better mangned which is important as the storage hardware shortage is part of this era.
+
+# badges
+![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?logo=github)
