@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/assets/AllThingsUSBs.jpeg" height="128" width="128">
+<img src="/assets/nobgATU.png" height="128" width="128">
 <h1>AllThingsUSBs</h1>
 
 </div>
