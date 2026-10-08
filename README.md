@@ -7,7 +7,7 @@ AI is a touchy topic, I will say that I think everything shouldn't be fully made
 The Problem (Currently & What I think needs to be fixed)
 -------
 - USB sticks are cheap, portable, but notoriously unreliable.
-- Users juggle many separate tools: dd, ventoy, smartctl, rsync.
+- Users juggle many separate tools: dd, ventoy, etc.
 - Be able to turn off other modes and will have more themes and minimal mode
 - No unified UI exists for Linux to monitor health, backup, and flash USB sticks.
 - **SSD/HDD prices have INCREASED SO MUCH** as demand from AI‑powered bots, massive data‑center workloads, and large‑scale model training drives up component costs. Users are therefore *more likely to reuse the same external drives* for many photos, projects, and ISO's making reliable management even more critical.
