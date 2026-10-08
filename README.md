@@ -23,7 +23,7 @@ AllThingsUSB (ATUSB) – a single, open‑source, Linux‑first toolbox that:
   • Provides safe flashing & raw imaging.
   • Runs on GNOME, KDE, i3, sway works with wayland and X11 – works everywhere.
 
-The Impact (The project will FIX most issues and issues I currently have with usb 2.0 USB sticks)
+The Impact (FIX issues with all USB sticks)
 ------
 - **Data‑loss mitigation**: With pricier SSDs/HDDs, losing a drive is costlier; ATUSB’s health checks and pre‑emptive backups protect that investment.
 - **Reduced waste**: Extends the usable life of existing USB media, lessening the need to purchase new storage hardware amid market‑driven price spikes.
