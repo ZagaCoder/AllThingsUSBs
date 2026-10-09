@@ -44,7 +44,7 @@ AllThingsUSB (ATUSB) – a single, open‑source, Linux‑first toolbox that:
 - **Lower barrier to multiboot USB creation**: No more hunting for multiple command‑line apps or other flashing tools or just to get downloads to update ISO's.
 - **Strengthens the Linux ecosystem** with a polished, community‑driven utility toolbox that respects the self and makes a rising value of simple sysadmin toolbox and makes low amounts of storage better mangned which is important as the storage hardware shortage is part of this era.
 
-**Future idea and other things to do and be added!**
+🧰 **Future idea and other things to do and be added!**
 ------
 - **Make the Program GUI and CLI, I want to make it work both ways because I think its important to have that user type of choice.**
 - **Add updates and will keep it maintained**
