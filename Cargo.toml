@@ -1,0 +1,19 @@
+[package]
+name = "atusb"
+version = "0.1.0"
+edition = "2024"
+
+#[package]
+#name = "atusb"
+#version = "0.1.0"
+#edition = "2021"
+
+[dependencies]
+nix = { version = "0.26", features = ["fs", "ioctl"] }  # Linux USB handling
+libc = "0.2"                                           # Low-level C bindings
+serde = { version = "1.0", features = ["derive"] }      # Structured data
+serde_json = "1.0"                                     # JSON support
+clap = { version = "4.0", features = ["derive"] }       # CLI parsing
+anyhow = "1.0"                                         # Better error handling
+log = "0.4"                                            # Logging
+env_logger = "0.10"                                    # Logging setup
