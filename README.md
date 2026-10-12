@@ -6,7 +6,7 @@
 </div>
 
 <!--# AllThingsUSBs (ATUSB - ATUSBs) -->
-AllThingsUSBs is a project that restores trust in usb sticks health, say no more to flashing usb sticks and not knowing if your flash killed the USB flash drive, including ventoy and medicat updating and backups, the program can check if ISOs plus medicat need updating. AllThingsUSBs is a all in one tool for USB sticks. Fully written in rust
+AllThingsUSBs is a project that restores trust in usb sticks health and backups, say no more to flashing usb sticks and not knowing if your flash killed your flash drive, tool has ventoy and medicat updating support and backups, also it can check if ISOs need updating plus medicat updating. AllThingsUSBs is a all in one tool. Written in Rust. 🦀
 
 Sorry for the AI logo mainly I will hire a better person later on to make it better than now currently...
 AI is a touchy topic, I will say that I think everything shouldn't be fully made with AI and should have some artwork/skill to a project because that is what makes a good project in my option.
